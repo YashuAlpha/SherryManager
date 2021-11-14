@@ -1,4 +1,4 @@
-<h1 align="center"><b> ★ 𝘿𝙚𝙫𝙞𝙡 𝙏𝙧𝙞𝙨𝙝𝙖 ★ </b></h1>
+<h1 align="center"><b> ★ Caden OP ★ </b></h1>
 
 <h4 align="center">𝐀 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥, 𝐒𝐦𝐚𝐫𝐭 𝐀𝐧𝐝 𝐒𝐢𝐦𝐩𝐥𝐞 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 ♻️ + 🎵 𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://t.me/DevilTrishaRoBot"><img src="https://telegra.ph/file/d71608cdca6a2bcb950bf.jpg" width="300"></a></p>
 
-## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [@DevilTrishaRoBot](https://t.me/DevilTrishaRoBot)
+## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [@Caden_Robot](https://telegra.ph/file/bf34cbac9f040b739a808.jpg)
 
 # ❤️ Support
 <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
@@ -22,7 +22,7 @@
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/rakeshyt/TrishaManager"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Krishnacodr/TrishaManager"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
 

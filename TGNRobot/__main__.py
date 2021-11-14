@@ -74,25 +74,25 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ 【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】
+ʜᴏɪ, ɪ ᴍ 【🇮🇳♡➣Caden➣♡🇮🇳】
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
- [❤](https://telegra.ph/file/3f3c1824acae809163899.jpg)
+ [❤](https://telegra.ph/file/bf34cbac9f040b739a808.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ➣𝐓𝐫𝐢𝐬𝐡𝐚➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/DevilTrishaRoBot?startgroup=true"),
+            text="ᴀᴅᴅ ➣Caden➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/Caden_Robot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 💫", url=f"https://github.com/rakeshyt/TrishaManager"),
+        InlineKeyboardButton(text="Group 💫", url=f"https:/t.me/Caden_world"),
         InlineKeyboardButton(
-            text="𝐅𝐞𝐝 𝐂𝐡𝐚𝐭 ⚡", url=f"https://t.me/DevilHackerFed"
+            text="𝐅𝐞𝐝 𝐂𝐡𝐚𝐭 ⚡", url=f"https://t.me/KRISHNA_FED"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/JaiHindChatting"
+            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/Caden_world"
         ),
     ],
     [
@@ -103,12 +103,12 @@ buttons = [
 
 HELP_STRINGS = """
 `ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/3f3c1824acae809163899.jpg)"""
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/bf34cbac9f040b739a808.jpg)"""
 
-START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
+START_IMG = "https://telegra.ph/file/bf34cbac9f040b739a808.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project [𝐑𝐀𝐉](t.me/JaiHindChatting) \
+ You can support the project [Caden](t.me/Caden_OP) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -357,16 +357,16 @@ def zaid_about_callback(update, context):
     query = update.callback_query
     if query.data == "zaid_":
         query.message.edit_text(
-            text=""" ℹ️ I am [【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】](t.me/DevilTrishaRoBot), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I am [【🇮🇳♡➣Caden➣♡🇮🇳】](t.me/Caden_Robot), a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
                  \n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
-                 \n\n_【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】licensed under the GNU General Public License v3.0_
-                 \n❍ Assistant @DevilTrishaRoBot\_Assistant.
-                 \nHere is the [💾Repository](https://github.com/rakeshyt/TrishaManager).
+                 \n\n_【🇮🇳♡➣Caden➣♡🇮🇳】licensed under the GNU General Public License v3.0_
+                 \n❍ Assistant @Caden_assistant\_Assistant.
+                 \nHere is the [💾CHANNEL](https://t.me/Caden_hacks).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -393,8 +393,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡](t.me/DevilTrishaRoBot)
-                 \nHere is the [Source Code](https://github.com/rakeshyt/TrishaManager) .""",
+            text=""" Hi..🤗 I am [♡➣Caden➣♡](t.me/Caden_Robot)
+                 \nHere is the [Group](https://t.me/Caden_world) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
